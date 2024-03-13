@@ -1,8 +1,8 @@
 import "mocha";
 import { expect } from "chai";
-import { Adapter } from "../src/Adapter";
-import { Complex } from "../src/Complex";
-import { Rational } from "../src/Rational";
+import { Adapter } from "../src/Adapter.js";
+import { Complex } from "../src/Complex.js";
+import { Rational } from "../src/Rational.js";
 
 // Pruebas para Adapter
 describe("Adapter", function() {

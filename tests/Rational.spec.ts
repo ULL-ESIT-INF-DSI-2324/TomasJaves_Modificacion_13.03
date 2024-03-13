@@ -1,6 +1,6 @@
 import "mocha";
 import { expect } from "chai";
-import { Rational } from "../src/Rational";
+import { Rational } from "../src/Rational.js";
 
 // Pruebas para Rational
 describe("Rational", () => {
