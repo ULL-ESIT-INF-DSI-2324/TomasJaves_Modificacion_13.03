@@ -2,7 +2,8 @@
   "name": "tomas_practica7_modificacion",
   "version": "1.0.0",
   "description": "",
-  "main": "// ARCHIVO_MAIN.JS (EL QUE SE VA A EJECUTAR)",
+  "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "tsc-watch --onSuccess \"node dist/index.js\"",
     "doc": "typedoc",

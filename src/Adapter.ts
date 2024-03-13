@@ -1,6 +1,6 @@
 // Importa las clases Complex y Rational
-import { Complex } from "./Complex";
-import { Rational } from "./Rational";
+import { Complex } from "./Complex.js";
+import { Rational } from "./Rational.js";
 
 /**
  * Clase que adapta un número racional a un número complejo siguiendo el patrón Singleton.
